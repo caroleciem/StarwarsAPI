@@ -1,0 +1,13 @@
+@startuml
+
+class climat {
+
+}
+
+enum TimeUnit {
+DAYS
+HOURS
+MINUTES
+}
+
+@enduml
